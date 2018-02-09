@@ -1,0 +1,15 @@
+{
+  "name": "MyFirstDiscordBot",
+  "version": "1.0.0",
+  "description": "Testing out discord.js and making discord bots",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lindsey Burnett",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "discord.js": "^11.3.0"
+  }
+}
